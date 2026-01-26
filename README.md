@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Switin Mechineni</h1>
+<h1 align="center">Hi 👋, I'm Switin </h1>
 
 <h3 align="center">
 A passionate developer from India with a strong interest in Machine Learning, particularly the mathematical foundations behind ML models. I enjoy problem solving, algorithms, and building deep intuition for how systems work under the hood.
