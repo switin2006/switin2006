@@ -16,13 +16,13 @@ A passionate developer from India with a strong interest in Machine Learning, pa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/switin-mechineni" target="blank">
+  <a href="https://www.linkedin.com/in/switin-mechineni-5120a5299/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="switin mechineni" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/switin_19" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="switin_19" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/switin" target="blank">
+  <a href="https://leetcode.com/u/switin_incredulous06/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="switin" height="30" width="40" />
   </a>
 </p>
