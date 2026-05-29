@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Switin </h1>
 
+<!-- Moving Typing Text Animation -->
+<p align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Competitive+Programmer;Agentic+AI+Developer;Electrical+%26+Electronics+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">
 A passionate developer from India with a strong interest in Machine Learning, particularly the mathematical foundations behind ML models. I enjoy problem solving, algorithms, and building deep intuition for how systems work under the hood.
 </h3>
@@ -9,10 +16,18 @@ A passionate developer from India with a strong interest in Machine Learning, pa
 </p>
 
 - 🔭 I’m currently working on **agentic AI systems and talking-head generation**, focusing on LLM orchestration, tool-calling pipelines, and system-level design for multimodal AI applications.
-
-- 👯 I’m looking to collaborate on **projects aligned with my interests**
-
+- 🏆 I actively participate in **Competitive Programming**, regularly tackling algorithmic problem sets on platforms like Codeforces.
+- 👯 I’m looking to collaborate on **projects aligned with my interests**.
 - 📫 How to reach me: **switinmechineni@gmail.com**
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+*   **CodeCopilot & Axiom:** Developed a VS Code extension integrating AI tools for an enhanced backend development workflow.
+*   **AnimeForge:** A machine learning project utilizing Generative Adversarial Networks (GANs) for image generation and AI image detection.
+*   **Desi AI Document Assistant:** Built during a 48-hour hackathon, this AI tool converts complicated paperwork into straightforward, useful insights for rural administration.
+*   **Zeta Converter Simulation:** Designed and simulated a switch-mode power supply topology using MATLAB and Simulink for power electronics analysis.
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
