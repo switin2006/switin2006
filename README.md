@@ -63,5 +63,4 @@ A passionate developer from India with a strong interest in Machine Learning, pa
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=switin2006&show_icons=true&locale=en" alt="switin2006" />
-  [![Switin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=switin2006)](https://github.com/switin2006/github-readme-activity-graph)
 </p>
